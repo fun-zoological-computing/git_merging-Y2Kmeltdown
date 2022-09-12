@@ -1,3 +1,5 @@
+<title> Neuromorphic Engineering bars cafes and resistance safe houses around syndney. Originally by @dansand, and before that based on software carpenty </title>
+
 # Finished Git merging Assignment for Neuromorphic Algorithms: 
 ## Good Bars and resistance safe houses.
 
