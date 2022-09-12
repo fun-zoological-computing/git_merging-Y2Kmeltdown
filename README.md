@@ -1,9 +1,9 @@
-<title> Neuromorphic Engineering bars cafes and resistance safe houses around syndney. Originally by @dansand, and before that based on software carpenty </title>
+# Neuromorphic Engineering bars cafes and resistance safe houses around syndney. Originally by @dansand, and before that based on software carpenty 
 
-# Finished Git merging Assignment for Neuromorphic Algorithms: 
-## Good Bars and resistance safe houses.
+## Finished Git merging Assignment for Neuromorphic Algorithms: 
+### Good Bars and resistance safe houses.
 
-### Sydneys Resistance Safe Houses:
+#### Sydneys Resistance Safe Houses:
 
 ```geojson
 {
@@ -121,7 +121,7 @@
 }
 ```
 
-### Melbournes Resistance Safe Houses:
+#### Melbournes Resistance Safe Houses:
 
 
 ```geojson
