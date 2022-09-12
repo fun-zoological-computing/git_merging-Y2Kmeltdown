@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+
+
 # Version Control and Beyond: Not Just Convenient and Effective Sharing!
 
 [Lab Assignment 1](lab_assignment1.md)
@@ -6,8 +10,6 @@
 
 
 
-<!DOCTYPE html>
-<html>
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
